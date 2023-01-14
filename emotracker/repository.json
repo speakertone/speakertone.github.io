@@ -1,0 +1,15 @@
+{
+    "name": "Trackers by speakertone",
+    "packages": [
+      {
+        "author": "speakertone",
+        "name": "Hyper Metroid Randomizer Map Tracker",
+        "game_name": "Super Metroid",
+        "version": "1.0",
+        "flags": [ "map", "pins", "chathud", "autotracker" ],
+        "uid": "hypermetroidrando_speakertone",
+        "link": "https://speakertone.github.io/emotracker/hypermetroidrando_speakertone.zip"
+      }
+    ]
+  }
+  
