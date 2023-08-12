@@ -1,3 +1,3 @@
 # speakertone's Page
 
-Currently just hosting my Hyper Metroid Rando map tracker (for EmoTracker).
+Currently just hosting my EmoTracker map tracker packages.
