@@ -1,17 +1,33 @@
 {
-    "name": "Trackers by speakertone",
-    "packages": [
-      {
-        "required_app_version": "2.3.6.6",
-        "documentation_url": "https://github.com/speakertone/hypermetroidrando_emotracker/blob/main/README.md",
-        "author": "speakertone",
-        "name": "Hyper Metroid Randomizer Map Tracker",
-        "game_name": "Super Metroid",
-        "version": "1.0",
-        "flags": [ "map", "pins", "chathud", "autotracker" ],
-        "uid": "hypermetroidrando_speakertone",
-        "link": "https://speakertone.github.io/emotracker/hypermetroidrando_speakertone.zip"
-      }
-    ]
-  }
-  
+  "name": "Trackers by speakertone",
+  "packages": [
+    {
+      "required_app_version": "2.3.6.6",
+      "documentation_url": "https://github.com/speakertone/hypermetroidrando_emotracker/blob/main/README.md",
+      "author": "speakertone",
+      "name": "Hyper Metroid Randomizer Map Tracker",
+      "game_name": "Super Metroid",
+      "version": "1.0",
+      "flags": [ "map", "pins", "chathud", "autotracker" ],
+      "uid": "hypermetroidrando_speakertone",
+      "link": "https://speakertone.github.io/emotracker/hypermetroidrando_speakertone.zip"
+    },
+    {
+      "required_app_version": "2.3.8.18",
+      "documentation_url": "https://github.com/speakertone/mzmrando_emotracker/blob/main/README.md",
+      "author": "speakertone",
+      "name": "MZMR Map Tracker",
+      "game_name": "Metroid: Zero Mission",
+      "version": "1.0",
+      "flags": [ "map", "pins", "chathud", "autotracker" ],
+      "uid": "mzmrando_speakertone",
+      "link": "https://speakertone.github.io/emotracker/mzmrando_speakertone.zip",
+      "variants": [
+        {
+          "name": "Standard Map Tracker",
+          "flags": [ "map", "pins", "chathud", "autotracker" ]
+        }
+      ]
+    }
+  ]
+}
