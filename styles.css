@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    font-family: inherit;
+}
+
+main {
+    padding-left: 15px;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+}
+
+header {
+    font-size: 1.25rem;
+}
+
+section {
+    padding-bottom: 15px;
+}
+
+.no-bullet {
+    list-style: none;
+    margin-left: -20px;
+}
+
+.no-bullet ul li {
+    list-style: disc;
+}
+
+.description {
+    margin-left: 15px;
+    font-size: .875rem;
+    font-style: italic;
+}
